@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="firstIntent">Primo Intent</string>
+    <string name="secondIntent">Secondo Intent</string>
+    <string name="thirdIntent">Terzo Intent</string>
+    <string name="label_blank">Label Blank</string>
+    <string name="label_blank_2">Label Blank2</string>
+    <string name="element_text">Text</string>
+    <string name="grid_layout_manager">Grid Layout Manager</string>
+    <string name="linear_layout_manager">Linear Layout Manager</string>
+    <string name="new_game">Menu</string>
+    <string name="help">Help</string>
+    <string name="start_message">Dialog message</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog">Dialog</string>
+
+    <string name="mainFragment">Main Fragment</string>
+    <string name="detailFragment">Detail Fragment</string>
+
+    <string name="messaggio">Il testo non può essere vuoto!</string>
+    <string name="notInDatabase">Utente non registrato</string>
+    
+    <string name="registrazione">Registrazione</string>
+</resources>
