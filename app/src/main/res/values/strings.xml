@@ -22,4 +22,7 @@
     <string name="notInDatabase">Utente non registrato</string>
     
     <string name="registrazione">Registrazione</string>
+    <string name="list">List</string>
+    <string name="map">Map</string>
+    <string name="location_required">Location Required</string>
 </resources>
